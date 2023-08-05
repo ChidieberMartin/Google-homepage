@@ -1,0 +1,108 @@
+html {
+    background: rgb(236, 231, 231);
+}
+
+body {
+    background-color: rgb(182, 226, 255);
+}
+
+#container {
+    text-align: center;
+    font-weight: bold;
+    padding: 100px 0px;
+    margin: 55px 0px;
+    font-size: 32px;
+    background-color: white;
+    
+
+}
+
+#icon {
+    font-size: 75px;
+    font-weight: bold;
+    color: deepskyblue;
+    margin: 80px 0px;
+
+}
+
+.searchBoxContainer {
+    padding: 40pxpx;
+    margin: 3px 0px;
+}
+
+.searchBox {
+
+    border-radius: 10px;
+    width: 350px;
+    padding: 15px 4px;
+    outline: 0px;
+    border: thin solid gray;
+    margin: 8px;
+
+}
+
+.searchbutton {
+    position: relative;
+    cursor: pointer;
+    width: 350px;
+    background: rgb(17, 103, 201);
+    padding: 15px;
+    border: thin solid gray;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 20px 0px 2px 0px;
+    color: white;
+
+}
+
+.searchbutton:active {
+    border: 0px;
+
+
+}
+
+.searchbuttonBox {
+    cursor: pointer;
+    width: 350px;
+    background: whitesmoke;
+    border: thin solid wheat;
+    font-weight: bolder;
+    border-radius: 8px;
+    padding: 13px;
+    color: rgb(12, 71, 138);
+    margin-bottom: 16px;
+}
+
+.searchbuttonBox:active {
+    border: 0px;
+    
+
+}
+.button{
+    cursor: pointer;
+    width: 200px;
+    border: thin solid gray;
+    background: rgb(54, 192, 19);
+    border-radius: 8px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.button:active{
+    border: 0px;
+
+}
+#con{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+#con a:nth-child(1){
+    color: grey;
+    text-decoration: none;
+    margin: 15px 0px;
+    font-size: medium;
+    font-size: 20px;
+
+}

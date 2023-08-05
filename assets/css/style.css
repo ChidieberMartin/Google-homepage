@@ -1,0 +1,150 @@
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#container {
+    text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+
+#headerTitle {
+    padding: 0px;
+    margin: 0px;
+}
+
+#headerTitle1 {
+    color: #4285f4;
+}
+
+
+#headerTitle2 {
+    color: #ea4335;
+}
+
+#headerTitle3 {
+    color: #fbbc05;
+}
+
+#headerTitle4 {
+    color: #4285f4;
+}
+
+#headerTitle5 {
+    color: #34a853;
+
+}
+
+#headerTitle6 {
+    color: #ea4335;
+}
+
+#searchBoxContainer {
+    margin: 50px 0px 10px;
+
+}
+
+#searchBox {
+    padding: 10px 5px;
+    width: 500px;
+    border-radius: 15px;
+    outline: 0px;
+    border: thin solid gray;
+}
+
+
+.searchButton {
+    background: rgb(240, 234, 234);
+    position: relative;
+    width: 120px;
+    padding: 5px;
+    border: thin solid gray;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+.searchButton:nth-child(1) {
+    right: 3px;
+}
+
+.searchButton:nth-child(2) {
+    left: 3px;
+}
+
+.searchButton:active {
+    border: 0px;
+}
+
+#offeredLanguages {
+    font-size: 17px;
+    text-decoration: none;
+    padding: 20px 0px;
+    font-weight: 600;
+    font-weight: bold;
+    color: gray;
+}
+
+#offeredLanguages a {
+    font-size: 15px;
+    text-decoration: none;
+    color:rgb(168, 37, 194);
+}
+
+#offeredLanguages a:nth-child(1) {
+    margin-left: 0px;
+}
+
+#offeredLanguages a:nth-child(2) {
+    margin-right: 0px;
+}
+
+.offeredLanguages a:hover {
+    font-size: 25px;
+    text-decoration: underline;
+    color: goldenrod;
+    
+}
+
+#links {
+    text-decoration: none;
+    font-weight: bold;
+    color: #92238d;
+}
+
+#links a:nth-child(1) {
+    margin-right: 7px;
+    text-decoration: none;
+    color: #92238d;
+}
+
+#links a:nth-child(2) {
+    margin-right: 7px;
+    text-decoration: none;
+    color:#92238d;
+}
+
+#links a:nth-child(3) {
+    margin: 0px 7px 0px 7px;
+    text-decoration: none;
+    color: #92238d;
+}
+#links a:nth-child(4){
+    margin: 0px 7px 0px 7px;
+    text-decoration: none;
+    color: #92238d;
+
+}
+#links a:nth-child(5){
+    margin: 0px 4px 0px 4px;
+    text-decoration: none;
+    columns: #92238d;
+}
+
+
+#links a:hover {
+    text-decoration: none;
+    font-weight: bold;
+    color: #34a853;
+}
